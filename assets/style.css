@@ -1,4 +1,13 @@
 .acessoinfo{
     display: flex;
     gap: 30px;
+    transition: 0.3s;
+}
+
+.acessoinfo:hover{
+    color: gray;
+}
+
+.acessoinfo h5:hover{
+    color: white;
 }
